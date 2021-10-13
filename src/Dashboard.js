@@ -440,8 +440,7 @@ class RisksTable extends React.Component {
 render() {
   const { risks } = this.props;
   const { currentSort } = this.state;
-  console.log("here");
-  console.log(sortTypes[currentSort]);
+  
     return (
       <table style={{ paddingTop: '2rem' }}>
         <thead>
