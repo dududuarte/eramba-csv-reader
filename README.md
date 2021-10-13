@@ -1,6 +1,8 @@
 # Getting Started
 
-This project was made to overview risk statistics regarding <b>All exported pages</b> from the Asset Risk Management section.
+This project was made to overview risk statistics regarding <b>All exported pages</b> from the Asset Risk Management section. These include doughnut charts and a risk matrix in detail to the project at hand.
+
+![UI](https://github.com/dududuarte/eramba-csv-reader/blob/main/example.png?raw=true)
 
 ## Available Scripts
 
