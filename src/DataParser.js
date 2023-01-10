@@ -52,7 +52,7 @@ class DataParser extends Component {
           position: 'absolute', left: '50%', top: '20%',
           transform: 'translate(-50%, -80%)'
       }}>
-        <h1>Eramba CSV Dashboard</h1>
+        <h1>CSV - Eramba</h1>
       </div>
         <div
     style={{
